@@ -1,0 +1,85 @@
+body {
+    background-color: #eeeaea;
+}
+
+.card {
+    width: 342px;
+    height: 504px;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 20px 20px 0 0;
+}
+
+.card-img {
+    width: 342px;
+    height: 222px;
+    border-radius: 20px 20px 0 0;
+    background-color: #dedede;
+}
+
+.card-info h2 {
+    width: 100%;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+    margin: 16px 0px 0px 24px;
+}
+
+.fonte{
+    font-family: Source Code Pro, sans-serif;
+}
+
+
+.card-info h3 {
+    width: 100%;
+    font-weight: 500;
+    font-size: 14px;
+    color: #000000;
+    margin: 0px 0px 0px 24px;
+}
+
+.card-info p {
+    width: 294px;
+    height: 36px;
+    font-size: 14px;
+    color: #666666;
+    margin: 16px 0px 16px 24px;
+}
+
+hr {
+    width: 290px;
+}   
+
+.card-details h3 {
+    font-weight: 400;
+    font-size: 14px;
+    margin: 16px 0px 8px 24px;
+}
+
+button {
+    font-family: Source Code Pro, sans-serif;
+}
+
+.card-buttons {
+    display: flex;
+    gap: 10px;
+    margin: 8px 0px 0px 24px;
+}
+
+ .card-buttons button {
+    border-radius: 100px;
+    border: 1px solid #3c3c43;
+    padding: 8px 12px 8px 12px;
+    font-size: 12px;
+    color: #3c3c43;
+    
+}
+
+.card-button {
+    margin: 16px 0px 0px 24px;
+    background-color: #3c3c43;
+    color: white;
+    padding: 8px 16px 8px 16px;
+    border-radius: 12px;
+    
+}
